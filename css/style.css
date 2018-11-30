@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1500px;
+    height: 3365px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+}
+
+.header {
+    background-image: url(../img/f2.jpg);
+    width: 1500px;
+    height: 700px;
+}
+
+.header a {
+    width: 509px;
+    height: 111px;
+    display: block;
+    background-image: url(../img/logo.png);
+    margin-left: 234px;
+    margin-top: 24px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.headerTop {
+    height: 135px;
+}
